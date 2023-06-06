@@ -1,0 +1,1 @@
+gcc test_conv2d.c -o target/test_conv2d.exe
